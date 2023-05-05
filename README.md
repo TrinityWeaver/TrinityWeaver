@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TrinityWeaver
-- 👀 I’m interested in AWS, Python, Cloud  and all automating technologies
-- 🌱 I’m currently learning AWS and Cloud Computing
+- 👀 I’m interested in Cloud, Python, Linux, Containers, k8s and all automating technologies
 
 
 <!---
